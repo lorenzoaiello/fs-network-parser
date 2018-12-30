@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<status>
+<controllers>
+<controller>
+<name>Justin M. (19723)</name>
+<role>WUS_X</role>
+<position lat="39.911289" lon="-110.40874"/>
+<primFreq>140100</primFreq>
+<callsign>WUS_0_X</callsign>
+</controller>
+<controller>
+<name>Joe C. (3077)</name>
+<role>ZLA_X</role>
+<position lat="33.386387" lon="-117.83461"/>
+<primFreq>175100</primFreq>
+<callsign>ZLA_0_X</callsign>
+</controller>
+</controllers>
+<pilots>
+<pilot cid="13252" drone="no">
+<name>Ian S. (13252)</name>
+<equipment>EPIC</equipment>
+<callsign>N401TS</callsign>
+<frequency radio="com1" lastUsed="yes" desiredRole="OTH_LC">11845</frequency>
+<frequency radio="com2" lastUsed="no" desiredRole="null">199998</frequency>
+<frequency radio="com3" lastUsed="no" desiredRole="null">199998</frequency>
+<position lat="18.449024" lon="-65.947868" alt="4472.992" groundSpeed="98.4" trueHeading="98.24"/>
+<flightplan/>
+</pilot>
+<pilot cid="14780" drone="no">
+<name>Patricio R. (14780)</name>
+<equipment>TBM9</equipment>
+<callsign>N659XK</callsign>
+<frequency radio="com1" lastUsed="yes" desiredRole="ZOA_WL[KPRB_12870]">12870</frequency>
+<frequency radio="com2" lastUsed="no" desiredRole="null">199998</frequency>
+<frequency radio="com3" lastUsed="no" desiredRole="null">199998</frequency>
+<position lat="35.7154982971" lon="-120.763561556" alt="922.6319" groundSpeed="0.0" trueHeading="116.57"/>
+<flightplan origin="CA62" destination="KLGB" type="IFR" alternate="" aircraftType="TBM9/L" altitude="27000"><route><![CDATA[AVE T263 FIM TANDY4  ]]></route><remarks><![CDATA[]]></remarks></flightplan>
+</pilot>
+<pilot cid="15485" drone="no">
+<name>Klaus A. (15485)</name>
+<equipment>PC12</equipment>
+<callsign>DFGCW</callsign>
+<frequency radio="com1" lastUsed="yes" desiredRole="CPR_GC">12190</frequency>
+<frequency radio="com2" lastUsed="no" desiredRole="null">199998</frequency>
+<frequency radio="com3" lastUsed="no" desiredRole="null">199998</frequency>
+<position lat="42.90424" lon="-106.456523" alt="5353.022" groundSpeed="0.0" trueHeading="134.74"/>
+<flightplan origin="KCPR" destination="KDEN" type="IFR" alternate="" aircraftType="PC12/L" altitude="FL270"><route><![CDATA[CPR3.CPR DDY OPPEE MOLTN3 ]]></route><remarks><![CDATA[]]></remarks></flightplan>
+</pilot>
+<pilot cid="10623" drone="no">
+<name>Skye D. (10623)</name>
+<equipment>B763</equipment>
+<callsign>GTI9076</callsign>
+<frequency radio="com1" lastUsed="yes" desiredRole="SJC_LC">12400</frequency>
+<frequency radio="com2" lastUsed="no" desiredRole="null">199998</frequency>
+<frequency radio="com3" lastUsed="no" desiredRole="null">199998</frequency>
+<position lat="37.6383586589" lon="-122.3896121863" alt="18.6519" groundSpeed="0.0" trueHeading="58.1"/>
+<flightplan origin="KSFO" destination="KLAS" type="IFR" alternate="KONT" aircraftType="H/B763/L" altitude="35000"><route><![CDATA[SSTIK4 NTELL Q162 ESSAA BTY FUZZY8]]></route><remarks><![CDATA[]]></remarks></flightplan>
+</pilot>
+<pilot cid="22744" drone="no">
+<name>David B. (22744)</name>
+<equipment>B738</equipment>
+<callsign>AAL733</callsign>
+<frequency radio="com1" lastUsed="yes" desiredRole="SFO_CD">11820</frequency>
+<frequency radio="com2" lastUsed="no" desiredRole="SJC_CD">11800</frequency>
+<frequency radio="com3" lastUsed="no" desiredRole="null">199998</frequency>
+<position lat="37.6178615077" lon="-122.3806143726" alt="31.0404" groundSpeed="0.0" trueHeading="257.49"/>
+<flightplan origin="KSFO" destination="KLAX" type="IFR" alternate="KONT" aircraftType="738" altitude="35000"><route><![CDATA[OFFSHORE1 DCT OAK J1 DERBB J7 REYES J1 FIM SADDE7]]></route><remarks><![CDATA[NONE]]></remarks></flightplan>
+</pilot>
+<pilot cid="6391" drone="no">
+<name>Ben L. (6391)</name>
+<equipment>DHC6</equipment>
+<callsign>N9155M</callsign>
+<frequency radio="com1" lastUsed="yes" desiredRole="PHX_D[12680]">12680</frequency>
+<frequency radio="com2" lastUsed="no" desiredRole="null">199998</frequency>
+<frequency radio="com3" lastUsed="no" desiredRole="null">199998</frequency>
+<position lat="17.9045055202" lon="-62.8421165355" alt="34.6099" groundSpeed="30.39" trueHeading="80.17"/>
+<flightplan/>
+</pilot>
+<pilot cid="2808" drone="no">
+<name>Ben F. (2808)</name>
+<equipment>B733</equipment>
+<callsign>SWA420</callsign>
+<frequency radio="com1" lastUsed="no" desiredRole="null">199998</frequency>
+<frequency radio="com2" lastUsed="yes" desiredRole="RNO_GC">12190</frequency>
+<frequency radio="com3" lastUsed="no" desiredRole="null">199998</frequency>
+<position lat="39.5042542801" lon="-119.7733101836" alt="4422.5421" groundSpeed="2.21" trueHeading="352.72"/>
+<flightplan origin="KRNO" destination="KSFO" type="IFR" alternate="KRNO" aircraftType="B733/L" altitude="28000"><route><![CDATA[ZEFFR6 MRLET LEGGS BDEGA3]]></route><remarks><![CDATA[]]></remarks></flightplan>
+</pilot>
+<pilot cid="5941" drone="no">
+<name>Eric G. (5941)</name>
+<equipment>H25B</equipment>
+<callsign>N2102W</callsign>
+<frequency radio="com1" lastUsed="yes" desiredRole="SMO_LC">12010</frequency>
+<frequency radio="com2" lastUsed="no" desiredRole="null">199998</frequency>
+<frequency radio="com3" lastUsed="no" desiredRole="null">199998</frequency>
+<position lat="34.0471199" lon="-118.4150759" alt="1465.907" groundSpeed="130.0736" trueHeading="221.1328"/>
+<flightplan origin="L35" destination="KSMO" type="IFR" alternate="KOXR" aircraftType="H25B/G" altitude="16000"><route><![CDATA[POM V264 ITSME V186 DARTS]]></route><remarks><![CDATA[]]></remarks></flightplan>
+</pilot>
+<pilot cid="45" drone="no">
+<name>Dave P. (45)</name>
+<equipment>B736</equipment>
+<callsign>UAL1160</callsign>
+<frequency radio="com1" lastUsed="yes" desiredRole="MFR_GC">12180</frequency>
+<frequency radio="com2" lastUsed="no" desiredRole="null">199998</frequency>
+<frequency radio="com3" lastUsed="no" desiredRole="null">199998</frequency>
+<position lat="42.3709936" lon="-122.8726038" alt="1342.983" groundSpeed="15.49" trueHeading="330.67"/>
+<flightplan origin="KMFR" destination="KSFO" type="IFR" alternate="KRNO" aircraftType="B736/L" altitude="31000"><route><![CDATA[++BRUTE7 TALEM+ MLBEC BDEGA3]]></route><remarks><![CDATA[PBN/A1B1C1D1S1S2 DOF/181230 REG/N736PM EET/KZOA0011 OPR/UAL PER/C TALT/KPDX RMK/TCAS SIMBRIEF]]></remarks></flightplan>
+</pilot>
+<pilot cid="5249" drone="no">
+<name>Milan K. (5249)</name>
+<equipment>DH8D</equipment>
+<callsign>UAL2520</callsign>
+<frequency radio="com1" lastUsed="yes" desiredRole="SCT_R[KONT_13540]">13540</frequency>
+<frequency radio="com2" lastUsed="no" desiredRole="null">199998</frequency>
+<frequency radio="com3" lastUsed="no" desiredRole="null">199998</frequency>
+<position lat="33.9672018" lon="-117.5103661" alt="3982.5441" groundSpeed="190.95" trueHeading="93.35"/>
+<flightplan origin="KONT" destination="KONT" type="IFR" alternate="" aircraftType="DH8D/L" altitude="4000"><route><![CDATA[PDZ]]></route><remarks><![CDATA[]]></remarks></flightplan>
+</pilot>
+<pilot cid="8741" drone="no">
+<name>David G. (8741)</name>
+<equipment>BE33</equipment>
+<callsign>N8539M</callsign>
+<frequency radio="com1" lastUsed="yes" desiredRole="SCT_G[KBUR_13420]">13420</frequency>
+<frequency radio="com2" lastUsed="no" desiredRole="BUR_GC">12390</frequency>
+<frequency radio="com3" lastUsed="no" desiredRole="null">199998</frequency>
+<position lat="34.613952242" lon="-118.0917393056" alt="11083.8076" groundSpeed="131.66" trueHeading="43.72"/>
+<flightplan origin="KBUR" destination="KLAS" type="IFR" alternate="NONE" aircraftType="BE33/G" altitude="11000"><route><![CDATA[+VNY3.DAG.CRESO4]]></route><remarks><![CDATA[I5 ]]></remarks></flightplan>
+</pilot>
+<pilot cid="2415" drone="no">
+<name>Damien O. (2415)</name>
+<equipment>GLF4</equipment>
+<callsign>N313N</callsign>
+<frequency radio="com1" lastUsed="yes" desiredRole="SNA_GCE">12080</frequency>
+<frequency radio="com2" lastUsed="no" desiredRole="null">199998</frequency>
+<frequency radio="com3" lastUsed="no" desiredRole="null">199998</frequency>
+<position lat="33.6685711079" lon="-117.8714314272" alt="64.5257" groundSpeed="19.73" trueHeading="37.39"/>
+<flightplan origin="KSNA" destination="KVNY" type="IFR" alternate="" aircraftType="GLF5/L" altitude="6000"><route><![CDATA[SLI V23 LAX LAX320 CANOG]]></route><remarks><![CDATA[]]></remarks></flightplan>
+</pilot>
+</pilots>
+</status>
